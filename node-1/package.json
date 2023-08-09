@@ -1,0 +1,14 @@
+{
+  "name": "moleculer-benchmark-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "@r2d2bzh/moleculer-healthcheck-middleware": "1.0.6",
+    "moleculer": "0.14.31",
+    "moleculer-web": "^0.10.6",
+    "nats": "2.15.1",
+    "pino": "8.14.1"
+  },
+  "engines": {
+    "node": "^18.15.0"
+  }
+}
